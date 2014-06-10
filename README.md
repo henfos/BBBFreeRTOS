@@ -14,6 +14,7 @@ Working:
 - Interrupts
 - GPIO
 - Output serial
+
 Not finished:
 - An ISR routine for serial input //Should however be no problem as core FreeRTOS is fully functioning 
 
